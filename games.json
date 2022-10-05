@@ -1,0 +1,584 @@
+[
+    {
+        "Name of the game": "Roblox",
+        "Category": "Приключения",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.roblox.client"
+    },
+    {
+        "Name of the game": "Subway Surfers",
+        "Category": "Аркады",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+    },
+    {
+        "Name of the game": "Wordscapes",
+        "Category": "Словесные игры",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.peoplefun.wordcross"
+    },
+    {
+        "Name of the game": "Woodoku",
+        "Category": "Головоломки",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.tripledot.woodoku"
+    },
+    {
+        "Name of the game": "Royal Match",
+        "Category": "Головоломки",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch"
+    },
+    {
+        "Name of the game": "Geometry Dash Lite",
+        "Category": "Аркады",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite"
+    },
+    {
+        "Name of the game": "Super Mario Run",
+        "Category": "Экшен",
+        "Rating": "4,0",
+        "Link": "https://play.google.com/store/apps/details?id=com.nintendo.zara"
+    },
+    {
+        "Name of the game": "CSR 2 - Drag Racing Car Games",
+        "Category": "Гонки",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.naturalmotion.customstreetracer2"
+    },
+    {
+        "Name of the game": "Майнкрафт",
+        "Category": "Аркады",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    },
+    {
+        "Name of the game": "Mario Kart Tour",
+        "Category": "Экшен",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.nintendo.zaka"
+    },
+    {
+        "Name of the game": "UNO!™",
+        "Category": "Карточные",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=com.matteljv.uno"
+    },
+    {
+        "Name of the game": "Pokémon UNITE",
+        "Category": "Экшен",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite"
+    },
+    {
+        "Name of the game": "Asphalt 9: Легенды",
+        "Category": "Гонки",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM"
+    },
+    {
+        "Name of the game": "Design Home: Real Home Decor",
+        "Category": "Симуляторы",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.crowdstar.covetHome"
+    },
+    {
+        "Name of the game": "Tap Color Pro: Color By Number",
+        "Category": "Настольные игры",
+        "Rating": "4,8",
+        "Link": "https://play.google.com/store/apps/details?id=coloring.color.number.happy.paint.art.drawing.puzzle"
+    },
+    {
+        "Name of the game": "Galaxy Attack: Alien Shooting",
+        "Category": "Аркады",
+        "Rating": "4,7",
+        "Link": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack"
+    },
+    {
+        "Name of the game": "Clash Royale",
+        "Category": "Стратегии",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale"
+    },
+    {
+        "Name of the game": "Angry Birds Journey",
+        "Category": "Головоломки",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.rovio.abcasual"
+    },
+    {
+        "Name of the game": "Galaxiga: классический шутер",
+        "Category": "Аркады",
+        "Rating": "4,7",
+        "Link": "https://play.google.com/store/apps/details?id=com.os.space.force.galaxy.alien"
+    },
+    {
+        "Name of the game": "The Sims™ Mobile",
+        "Category": "Симуляторы",
+        "Rating": "4,2",
+        "Link": "https://play.google.com/store/apps/details?id=com.ea.gp.simsmobile"
+    },
+    {
+        "Name of the game": "Top Drives — карточные гонки",
+        "Category": "Гонки",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=com.hutchgames.cccg"
+    },
+    {
+        "Name of the game": "Pokémon Masters EX",
+        "Category": "Ролевые",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.dena.a12026418"
+    },
+    {
+        "Name of the game": "TerraGenesis: эволюция планет",
+        "Category": "Симуляторы",
+        "Rating": "4,1",
+        "Link": "https://play.google.com/store/apps/details?id=com.alexanderwinn.TerraGenesis"
+    },
+    {
+        "Name of the game": "LEGO® Star Wars™: TFA",
+        "Category": "Приключения",
+        "Rating": "3,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.wb.goog.legoswtfa"
+    },
+    {
+        "Name of the game": "Tetris®",
+        "Category": "Головоломки",
+        "Rating": "4,2",
+        "Link": "https://play.google.com/store/apps/details?id=com.n3twork.tetris"
+    },
+    {
+        "Name of the game": "Mario Kart Tour",
+        "Category": "Экшен",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.nintendo.zaka"
+    },
+    {
+        "Name of the game": "Design Home: Real Home Decor",
+        "Category": "Симуляторы",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.crowdstar.covetHome"
+    },
+    {
+        "Name of the game": "Galaxy Attack: Alien Shooting",
+        "Category": "Аркады",
+        "Rating": "4,7",
+        "Link": "https://play.google.com/store/apps/details?id=com.alien.shooter.galaxy.attack"
+    },
+    {
+        "Name of the game": "Clash Royale",
+        "Category": "Стратегии",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale"
+    },
+    {
+        "Name of the game": "Space shooter - Galaxy attack",
+        "Category": "Аркады",
+        "Rating": "4,8",
+        "Link": "https://play.google.com/store/apps/details?id=com.game.space.shooter2"
+    },
+    {
+        "Name of the game": "Пасьянс: карточная игра",
+        "Category": "Карточные",
+        "Rating": "4,8",
+        "Link": "https://play.google.com/store/apps/details?id=solitaire.patience.card.games.klondike.free"
+    },
+    {
+        "Name of the game": "War Machines：Tanks Battle Game",
+        "Category": "Экшен",
+        "Rating": "4,2",
+        "Link": "https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+    },
+    {
+        "Name of the game": "Angry Birds 2",
+        "Category": "Казуальные",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.rovio.baba"
+    },
+    {
+        "Name of the game": "Megapolis Строительство Города",
+        "Category": "Стратегии",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.socialquantum.acityint"
+    },
+    {
+        "Name of the game": "Solitaire",
+        "Category": "Карточные",
+        "Rating": "4,7",
+        "Link": "https://play.google.com/store/apps/details?id=com.smilerlee.klondike"
+    },
+    {
+        "Name of the game": "Hill Climb Racing 2",
+        "Category": "Гонки",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=com.fingersoft.hcr2"
+    },
+    {
+        "Name of the game": "My Singing Monsters",
+        "Category": "Музыка",
+        "Rating": "4,7",
+        "Link": "https://play.google.com/store/apps/details?id=com.bigbluebubble.singingmonsters.full"
+    },
+    {
+        "Name of the game": "Wolf Game: The Wild Kingdom",
+        "Category": "Новое",
+        "Rating": "4,7",
+        "Link": "https://play.google.com/store/apps/details?id=com.special.thewolfgame"
+    },
+    {
+        "Name of the game": "RAID: Shadow Legends",
+        "Category": "Ролевые",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends"
+    },
+    {
+        "Name of the game": "Star Wars™: Галактика героев",
+        "Category": "Ролевые",
+        "Rating": "4,0",
+        "Link": "https://play.google.com/store/apps/details?id=com.ea.game.starwarscapital_row"
+    },
+    {
+        "Name of the game": "June’s Journey: найди предметы",
+        "Category": "Приключения",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=net.wooga.junes_journey_hidden_object_mystery_game"
+    },
+    {
+        "Name of the game": "Plants vs. Zombies™ 2",
+        "Category": "Казуальные",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_na"
+    },
+    {
+        "Name of the game": "UNO!™",
+        "Category": "Карточные",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=com.matteljv.uno"
+    },
+    {
+        "Name of the game": "Pokémon UNITE",
+        "Category": "Экшен",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite"
+    },
+    {
+        "Name of the game": "Clash Royale",
+        "Category": "Стратегии",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale"
+    },
+    {
+        "Name of the game": "Galaxiga: классический шутер",
+        "Category": "Аркады",
+        "Rating": "4,7",
+        "Link": "https://play.google.com/store/apps/details?id=com.os.space.force.galaxy.alien"
+    },
+    {
+        "Name of the game": "The Sims™ Mobile",
+        "Category": "Симуляторы",
+        "Rating": "4,2",
+        "Link": "https://play.google.com/store/apps/details?id=com.ea.gp.simsmobile"
+    },
+    {
+        "Name of the game": "Top Drives — карточные гонки",
+        "Category": "Гонки",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=com.hutchgames.cccg"
+    },
+    {
+        "Name of the game": "Pokémon Masters EX",
+        "Category": "Ролевые",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.dena.a12026418"
+    },
+    {
+        "Name of the game": "TerraGenesis: эволюция планет",
+        "Category": "Симуляторы",
+        "Rating": "4,1",
+        "Link": "https://play.google.com/store/apps/details?id=com.alexanderwinn.TerraGenesis"
+    },
+    {
+        "Name of the game": "LEGO® Star Wars™: TFA",
+        "Category": "Приключения",
+        "Rating": "3,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.wb.goog.legoswtfa"
+    },
+    {
+        "Name of the game": "Волшебные королевства Disney",
+        "Category": "Симуляторы",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDYHM"
+    },
+    {
+        "Name of the game": "Pokémon GO",
+        "Category": "Приключения",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo"
+    },
+    {
+        "Name of the game": "Bowling Crew — 3D боулинг игра",
+        "Category": "Спортивные игры",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.tetrox.bowl"
+    },
+    {
+        "Name of the game": "Space shooter - Galaxy attack",
+        "Category": "Аркады",
+        "Rating": "4,8",
+        "Link": "https://play.google.com/store/apps/details?id=com.game.space.shooter2"
+    },
+    {
+        "Name of the game": "Mech Arena: Robot Showdown",
+        "Category": "Экшен",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.plarium.mechlegion"
+    },
+    {
+        "Name of the game": "Idle Theme Park Tycoon",
+        "Category": "Симуляторы",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.codigames.idle.theme.park.tycoon"
+    },
+    {
+        "Name of the game": "War Machines：Tanks Battle Game",
+        "Category": "Экшен",
+        "Rating": "4,2",
+        "Link": "https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+    },
+    {
+        "Name of the game": "SimCity BuildIt",
+        "Category": "Симуляторы",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row"
+    },
+    {
+        "Name of the game": "Angry Birds 2",
+        "Category": "Казуальные",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.rovio.baba"
+    },
+    {
+        "Name of the game": "Mafia City",
+        "Category": "Стратегии",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=com.yottagames.mafiawar"
+    },
+    {
+        "Name of the game": "Star Trek™ Fleet Command",
+        "Category": "Стратегии",
+        "Rating": "3,9",
+        "Link": "https://play.google.com/store/apps/details?id=com.scopely.startrek"
+    },
+    {
+        "Name of the game": "Asphalt 9: Легенды",
+        "Category": "Гонки",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM"
+    },
+    {
+        "Name of the game": "Top Drives — карточные гонки",
+        "Category": "Гонки",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=com.hutchgames.cccg"
+    },
+    {
+        "Name of the game": "Pokémon GO",
+        "Category": "Приключения",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo"
+    },
+    {
+        "Name of the game": "Bowling Crew — 3D боулинг игра",
+        "Category": "Спортивные игры",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.tetrox.bowl"
+    },
+    {
+        "Name of the game": "F1 Clash - Менеджер Автогонок",
+        "Category": "Гонки",
+        "Rating": "4,2",
+        "Link": "https://play.google.com/store/apps/details?id=com.hutchgames.formularacing"
+    },
+    {
+        "Name of the game": "Mech Arena: Robot Showdown",
+        "Category": "Экшен",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.plarium.mechlegion"
+    },
+    {
+        "Name of the game": "War Machines：Tanks Battle Game",
+        "Category": "Экшен",
+        "Rating": "4,2",
+        "Link": "https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+    },
+    {
+        "Name of the game": "Star Trek™ Fleet Command",
+        "Category": "Стратегии",
+        "Rating": "3,9",
+        "Link": "https://play.google.com/store/apps/details?id=com.scopely.startrek"
+    },
+    {
+        "Name of the game": "NARUTO X BORUTO NINJA VOLTAGE",
+        "Category": "Экшен",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.bandainamcoent.ninjavoltage_app"
+    },
+    {
+        "Name of the game": "Hill Climb Racing 2",
+        "Category": "Гонки",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=com.fingersoft.hcr2"
+    },
+    {
+        "Name of the game": "Star Wars™: Галактика героев",
+        "Category": "Ролевые",
+        "Rating": "4,0",
+        "Link": "https://play.google.com/store/apps/details?id=com.ea.game.starwarscapital_row"
+    },
+    {
+        "Name of the game": "Ultimate Golf!",
+        "Category": "Спортивные игры",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.hypgames.ultimategolf"
+    },
+    {
+        "Name of the game": "RAID: Shadow Legends",
+        "Category": "Ролевые",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends"
+    },
+    {
+        "Name of the game": "Board Kings - настольные игры",
+        "Category": "Настольные игры",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.jellybtn.boardkings"
+    },
+    {
+        "Name of the game": "Zooba: Zoo Battle Royale Game",
+        "Category": "Экшен",
+        "Rating": "4,2",
+        "Link": "https://play.google.com/store/apps/details?id=com.wildlife.games.battle.royale.free.zooba"
+    },
+    {
+        "Name of the game": "Diablo Immortal",
+        "Category": "Ролевые",
+        "Rating": "3,8",
+        "Link": "https://play.google.com/store/apps/details?id=com.blizzard.diablo.immortal"
+    },
+    {
+        "Name of the game": "WGT Golf",
+        "Category": "Спортивные игры",
+        "Rating": "4,2",
+        "Link": "https://play.google.com/store/apps/details?id=com.wgt.android.golf"
+    },
+    {
+        "Name of the game": "The Sims™ Mobile",
+        "Category": "Симуляторы",
+        "Rating": "4,2",
+        "Link": "https://play.google.com/store/apps/details?id=com.ea.gp.simsmobile"
+    },
+    {
+        "Name of the game": "TerraGenesis: эволюция планет",
+        "Category": "Симуляторы",
+        "Rating": "4,1",
+        "Link": "https://play.google.com/store/apps/details?id=com.alexanderwinn.TerraGenesis"
+    },
+    {
+        "Name of the game": "Волшебные королевства Disney",
+        "Category": "Симуляторы",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDYHM"
+    },
+    {
+        "Name of the game": "Idle Theme Park Tycoon",
+        "Category": "Симуляторы",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.codigames.idle.theme.park.tycoon"
+    },
+    {
+        "Name of the game": "SimCity BuildIt",
+        "Category": "Симуляторы",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row"
+    },
+    {
+        "Name of the game": "Megapolis Строительство Города",
+        "Category": "Стратегии",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.socialquantum.acityint"
+    },
+    {
+        "Name of the game": "The Sims™ FreePlay",
+        "Category": "Симуляторы",
+        "Rating": "4,1",
+        "Link": "https://play.google.com/store/apps/details?id=com.ea.games.simsfreeplay_na"
+    },
+    {
+        "Name of the game": "My Singing Monsters",
+        "Category": "Музыка",
+        "Rating": "4,7",
+        "Link": "https://play.google.com/store/apps/details?id=com.bigbluebubble.singingmonsters.full"
+    },
+    {
+        "Name of the game": "Кошки и суп",
+        "Category": "Симуляторы",
+        "Rating": "4,8",
+        "Link": "https://play.google.com/store/apps/details?id=com.hidea.cat"
+    },
+    {
+        "Name of the game": "Hay Day",
+        "Category": "Казуальные",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=com.supercell.hayday"
+    },
+    {
+        "Name of the game": "Hooked Inc: Рыбак-олигарх",
+        "Category": "Симуляторы",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=se.ace.fishinc"
+    },
+    {
+        "Name of the game": "Stardew Valley",
+        "Category": "Ролевые",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley"
+    },
+    {
+        "Name of the game": "Gold & Goblins: Idle Merger",
+        "Category": "Симуляторы",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.redcell.goldandgoblins"
+    },
+    {
+        "Name of the game": "Township",
+        "Category": "Казуальные",
+        "Rating": "4,4",
+        "Link": "https://play.google.com/store/apps/details?id=com.playrix.township"
+    },
+    {
+        "Name of the game": "Idle Miner Tycoon: Gold & Cash",
+        "Category": "Симуляторы",
+        "Rating": "4,5",
+        "Link": "https://play.google.com/store/apps/details?id=com.fluffyfairygames.idleminertycoon"
+    },
+    {
+        "Name of the game": "FarmVille 3 – Farm Animals",
+        "Category": "Симуляторы",
+        "Rating": "4,2",
+        "Link": "https://play.google.com/store/apps/details?id=com.zynga.farmville3"
+    },
+    {
+        "Name of the game": "King's Choice",
+        "Category": "Ролевые",
+        "Rating": "4,3",
+        "Link": "https://play.google.com/store/apps/details?id=com.onemt.and.kc"
+    },
+    {
+        "Name of the game": "Family Island: Ферма симулятор",
+        "Category": "Казуальные",
+        "Rating": "4,6",
+        "Link": "https://play.google.com/store/apps/details?id=com.MelsoftGames.FamilyIslandFarm"
+    }
+]

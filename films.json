@@ -1,0 +1,502 @@
+[
+    {
+        "Films name": "Bullet Train",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Bullet_Train?id=IE8cncuxU1w.P"
+    },
+    {
+        "Films name": "Top Gun: Maverick",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/Top_Gun_Maverick?id=PnS5p3AmpRE.P"
+    },
+    {
+        "Films name": "Fall",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Fall?id=gbfJ0tMBG80.P"
+    },
+    {
+        "Films name": "Vesper",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Vesper?id=0UrenhmTjwY.P"
+    },
+    {
+        "Films name": "Emily The Criminal",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Emily_The_Criminal?id=dnfRK7s8lBQ.P"
+    },
+    {
+        "Films name": "Dead for a Dollar",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/Dead_for_a_Dollar?id=23yimBcr6Bo.P"
+    },
+    {
+        "Films name": "Bodies Bodies Bodies",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Bodies_Bodies_Bodies?id=NlTyfA-x_-s.P"
+    },
+    {
+        "Films name": "The Munsters (2022)",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Munsters_2022?id=1rmQZZMRRKY.P"
+    },
+    {
+        "Films name": "Bandit",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Bandit?id=YfsdgWqmxO4.P"
+    },
+    {
+        "Films name": "God's Creatures",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/God_s_Creatures?id=P43KE2kR2qc.P"
+    },
+    {
+        "Films name": "The Enforcer",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Enforcer?id=UjqPNeVCTIE.P"
+    },
+    {
+        "Films name": "Control",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Control?id=hNeDjCz1Jdc.P"
+    },
+    {
+        "Films name": "The Good Boss",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Good_Boss?id=8uqhphZXrqQ.P"
+    },
+    {
+        "Films name": "Avarice",
+        "Price": "3,99 $",
+        "Link": "https://play.google.com/store/movies/details/Avarice?id=LSCWtPt3ECM.P"
+    },
+    {
+        "Films name": "Devil's Workshop",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Devil_s_Workshop?id=NxKq9nlu4OA.P"
+    },
+    {
+        "Films name": "Mona Lisa and the Blood Moon",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Mona_Lisa_and_the_Blood_Moon?id=3TzQxP2UVcg.P"
+    },
+    {
+        "Films name": "Thor: Love and Thunder",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/Thor_Love_and_Thunder?id=NNcqpJ3Mn5k.P"
+    },
+    {
+        "Films name": "Accident Man",
+        "Price": "3,99 $",
+        "Link": "https://play.google.com/store/movies/details/Accident_Man?id=Rir3IvLPjVs.P"
+    },
+    {
+        "Films name": "Nix",
+        "Price": "3,99 $",
+        "Link": "https://play.google.com/store/movies/details/Nix?id=wRW8TLx1_sw.P"
+    },
+    {
+        "Films name": "ULTRAPOP: Live at the Masonic",
+        "Price": "3,99 $",
+        "Link": "https://play.google.com/store/movies/details/ULTRAPOP_Live_at_the_Masonic?id=Ff96PAv7DcM.P"
+    },
+    {
+        "Films name": "Where the Crawdads Sing",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/Where_the_Crawdads_Sing?id=M1pP5Ex6sPA.P"
+    },
+    {
+        "Films name": "Jurassic World Dominion",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/Jurassic_World_Dominion?id=r7yQmvn5_XM.P"
+    },
+    {
+        "Films name": "Nope",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Nope?id=GxMXwL_8uCU.P"
+    },
+    {
+        "Films name": "Thor: Love and Thunder",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/Thor_Love_and_Thunder?id=NNcqpJ3Mn5k.P"
+    },
+    {
+        "Films name": "Everything Everywhere All At Once",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/Everything_Everywhere_All_At_Once?id=W0kO0gqFbBM.P"
+    },
+    {
+        "Films name": "The Black Phone",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Black_Phone?id=WJkfdDavqaU.P"
+    },
+    {
+        "Films name": "Top Gun: Maverick",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/Top_Gun_Maverick?id=PnS5p3AmpRE.P"
+    },
+    {
+        "Films name": "Bullet Train",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Bullet_Train?id=IE8cncuxU1w.P"
+    },
+    {
+        "Films name": "Emily The Criminal",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Emily_The_Criminal?id=dnfRK7s8lBQ.P"
+    },
+    {
+        "Films name": "Minions: The Rise of Gru",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/Minions_The_Rise_of_Gru?id=bxrEpDXer4s.P"
+    },
+    {
+        "Films name": "X (2022)",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/X_2022?id=_1pPOJhjGD8.P"
+    },
+    {
+        "Films name": "Элвис",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/%D0%AD%D0%BB%D0%B2%D0%B8%D1%81?id=G---HJm7Lns.P"
+    },
+    {
+        "Films name": "Bandit",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Bandit?id=YfsdgWqmxO4.P"
+    },
+    {
+        "Films name": "Fall",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Fall?id=gbfJ0tMBG80.P"
+    },
+    {
+        "Films name": "Vesper",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Vesper?id=0UrenhmTjwY.P"
+    },
+    {
+        "Films name": "Beast (2022)",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Beast_2022?id=gbyxhdH2h2w.P"
+    },
+    {
+        "Films name": "DC League Of Super-Pets",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/DC_League_Of_Super_Pets?id=zVji-WvVlC8.P"
+    },
+    {
+        "Films name": "Avatar",
+        "Price": "3,99 $",
+        "Link": "https://play.google.com/store/movies/details/Avatar?id=JiJHVTjTfow.P"
+    },
+    {
+        "Films name": "Invitation, The",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Invitation_The?id=PvjU4vB9lY8.P"
+    },
+    {
+        "Films name": "Лучший стрелок",
+        "Price": "2,99 $",
+        "Link": "https://play.google.com/store/movies/details/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D0%BA?id=VmdoY5Vbe5k.P"
+    },
+    {
+        "Films name": "Alita: Battle Angel",
+        "Price": "7,99 $",
+        "Link": "https://play.google.com/store/movies/details/Alita_Battle_Angel?id=jwlu7jkYI1A"
+    },
+    {
+        "Films name": "Orphan",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/movies/details/Orphan?id=gBIT2ZYnRiU"
+    },
+    {
+        "Films name": "Blade (1998)",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/Blade_1998?id=bge9P_4-olA.P"
+    },
+    {
+        "Films name": "Godzilla vs. Kong",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/movies/details/Godzilla_vs_Kong?id=pdscE3LoplQ.P"
+    },
+    {
+        "Films name": "Prisoners",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/movies/details/Prisoners?id=iOfcoZmtScY"
+    },
+    {
+        "Films name": "Dracula: Dead and Loving It",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/Dracula_Dead_and_Loving_It?id=X4bgoVHlT0Y"
+    },
+    {
+        "Films name": "The Black Phone",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Black_Phone?id=WJkfdDavqaU.P"
+    },
+    {
+        "Films name": "Элвис",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/movies/details/%D0%AD%D0%BB%D0%B2%D0%B8%D1%81?id=G---HJm7Lns.P"
+    },
+    {
+        "Films name": "Mrs. Harris Goes to Paris",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/movies/details/Mrs_Harris_Goes_to_Paris?id=C4Ja3Hxw0Xo.P"
+    },
+    {
+        "Films name": "Encanto",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/movies/details/Encanto?id=7Vi3q0Lvzuc.P"
+    },
+    {
+        "Films name": "Interview with the Vampire",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/movies/details/Interview_with_the_Vampire?id=X-Kib-WiIms"
+    },
+    {
+        "Films name": "Blade 2: Bloodhunt",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/Blade_2_Bloodhunt?id=c-s9eM7b3Qw"
+    },
+    {
+        "Films name": "The Phantom of the Opera (2004)",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Phantom_of_the_Opera_2004?id=PDqSWYfOm7Y"
+    },
+    {
+        "Films name": "Demolition Man",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/movies/details/Demolition_Man?id=E2dso4e_lfg.P"
+    },
+    {
+        "Films name": "Creepshow",
+        "Price": "7,99 $",
+        "Link": "https://play.google.com/store/movies/details/Creepshow?id=7nHZjIPjBjI"
+    },
+    {
+        "Films name": "The Little Vampire",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Little_Vampire?id=lnI2u2IwDdg"
+    },
+    {
+        "Films name": "Coco",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/movies/details/Coco?id=3ySaOKlt_XU.P"
+    },
+    {
+        "Films name": "Falling Down",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/movies/details/Falling_Down?id=IMlN4ag4-T4.P"
+    },
+    {
+        "Films name": "The Man from U.N.C.L.E.",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Man_from_U_N_C_L_E?id=E-OW9FXwLyI"
+    },
+    {
+        "Films name": "The Nice Guys",
+        "Price": "7,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Nice_Guys?id=djtX0GdPhT8"
+    },
+    {
+        "Films name": "Fonzy",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/Fonzy?id=10gyv8vp1iA"
+    },
+    {
+        "Films name": "Sol",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/Sol?id=9w1x1nexcGk.P"
+    },
+    {
+        "Films name": "Celeste",
+        "Price": "2,99 $",
+        "Link": "https://play.google.com/store/movies/details/Celeste?id=gZdnTcRq0dQ"
+    },
+    {
+        "Films name": "It's for your own good",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/It_s_for_your_own_good?id=HeMma13tdso.P"
+    },
+    {
+        "Films name": "The Great Man",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Great_Man?id=qcnJaRpjM4w"
+    },
+    {
+        "Films name": "The Outsider",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Outsider?id=OeZVImX3AWc.P"
+    },
+    {
+        "Films name": "Sisters",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/Sisters?id=xU2Y54qfD1k.P"
+    },
+    {
+        "Films name": "A Kid",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/A_Kid?id=609DwWQlH3o.P"
+    },
+    {
+        "Films name": "The Country Doctor",
+        "Price": "1,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Country_Doctor?id=2v0Fqmi4W6Q.P"
+    },
+    {
+        "Films name": "Max&Leon",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/Max_Leon?id=MVeplgbt0Ok.P"
+    },
+    {
+        "Films name": "Binti",
+        "Price": "2,99 $",
+        "Link": "https://play.google.com/store/movies/details/Binti?id=ZalsgH4uzd4.P"
+    },
+    {
+        "Films name": "Tokyo Shaking",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/Tokyo_Shaking?id=6Cpa-_bNhOs.P"
+    },
+    {
+        "Films name": "Granny Nanny",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/Granny_Nanny?id=_E5yQ4Brpqw.P"
+    },
+    {
+        "Films name": "Bellbird",
+        "Price": "2,99 $",
+        "Link": "https://play.google.com/store/movies/details/Bellbird?id=ZkmxDQiltZI.P"
+    },
+    {
+        "Films name": "Party Girl",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/Party_Girl?id=fa17a6ma6zs"
+    },
+    {
+        "Films name": "Three Summers",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/Three_Summers?id=MXIXz5fKsAM.P"
+    },
+    {
+        "Films name": "Sleepless Night in Paris (Subbed)",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/Sleepless_Night_in_Paris_Subbed?id=Pv3ezssLerE"
+    },
+    {
+        "Films name": "Confessions to dEUS",
+        "Price": "2,99 $",
+        "Link": "https://play.google.com/store/movies/details/Confessions_to_dEUS?id=VfLsOOGvt1g.P"
+    },
+    {
+        "Films name": "In Her Name",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/In_Her_Name?id=Aul4u669pC8.P"
+    },
+    {
+        "Films name": "Superfast: From Road To Track",
+        "Price": "0,99 $",
+        "Link": "https://play.google.com/store/movies/details/Superfast_From_Road_To_Track?id=0rh5cylbC6Q.P"
+    },
+    {
+        "Films name": "Top Gun: Maverick",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/Top_Gun_Maverick?id=PnS5p3AmpRE.P"
+    },
+    {
+        "Films name": "Emily The Criminal",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Emily_The_Criminal?id=dnfRK7s8lBQ.P"
+    },
+    {
+        "Films name": "Thor: Love and Thunder",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/Thor_Love_and_Thunder?id=NNcqpJ3Mn5k.P"
+    },
+    {
+        "Films name": "Vesper",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Vesper?id=0UrenhmTjwY.P"
+    },
+    {
+        "Films name": "Bandit",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Bandit?id=YfsdgWqmxO4.P"
+    },
+    {
+        "Films name": "Dead for a Dollar",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/Dead_for_a_Dollar?id=23yimBcr6Bo.P"
+    },
+    {
+        "Films name": "The Enforcer",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Enforcer?id=UjqPNeVCTIE.P"
+    },
+    {
+        "Films name": "The Munsters (2022)",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Munsters_2022?id=1rmQZZMRRKY.P"
+    },
+    {
+        "Films name": "God's Creatures",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/God_s_Creatures?id=P43KE2kR2qc.P"
+    },
+    {
+        "Films name": "Three Thousand Years Of Longing",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/movies/details/Three_Thousand_Years_Of_Longing?id=3x7vp_CcO-I.P"
+    },
+    {
+        "Films name": "Invitation, The",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Invitation_The?id=PvjU4vB9lY8.P"
+    },
+    {
+        "Films name": "Beast (2022)",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Beast_2022?id=gbyxhdH2h2w.P"
+    },
+    {
+        "Films name": "The Infernal Machine",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Infernal_Machine?id=MCkhE0dJBNg.P"
+    },
+    {
+        "Films name": "Avarice",
+        "Price": "3,99 $",
+        "Link": "https://play.google.com/store/movies/details/Avarice?id=LSCWtPt3ECM.P"
+    },
+    {
+        "Films name": "Confess, Fletch",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Confess_Fletch?id=HeUL-K7zDdo.P"
+    },
+    {
+        "Films name": "Control",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Control?id=hNeDjCz1Jdc.P"
+    },
+    {
+        "Films name": "Invitation, The",
+        "Price": "19,99 $",
+        "Link": "https://play.google.com/store/movies/details/Invitation_The?id=zEPeDgYBDM0.P"
+    },
+    {
+        "Films name": "The Good Boss",
+        "Price": "4,99 $",
+        "Link": "https://play.google.com/store/movies/details/The_Good_Boss?id=8uqhphZXrqQ.P"
+    },
+    {
+        "Films name": "Devil's Workshop",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/movies/details/Devil_s_Workshop?id=NxKq9nlu4OA.P"
+    },
+    {
+        "Films name": "Nix",
+        "Price": "3,99 $",
+        "Link": "https://play.google.com/store/movies/details/Nix?id=wRW8TLx1_sw.P"
+    }
+]

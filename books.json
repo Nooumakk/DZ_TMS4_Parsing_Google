@@ -1,0 +1,602 @@
+[
+    {
+        "Books name": "The Golden Enclaves: A Novel",
+        "Price": "13,99 $",
+        "Link": "https://play.google.com/store/books/details/Naomi_Novik_The_Golden_Enclaves?id=7qBSEAAAQBAJ"
+    },
+    {
+        "Books name": "Kingdom of the Feared",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/Kerri_Maniscalco_Kingdom_of_the_Feared?id=7oZXEAAAQBAJ"
+    },
+    {
+        "Books name": "Michael Vey 8: The Parasite",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/books/details/Richard_Paul_Evans_Michael_Vey_8?id=y1JdEAAAQBAJ"
+    },
+    {
+        "Books name": "Live Wire: Long-Winded Short Stories",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Kelly_Ripa_Live_Wire?id=AUo5EAAAQBAJ"
+    },
+    {
+        "Books name": "Treasure State: A Cassie Dewell Novel",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/C_J_Box_Treasure_State?id=gZtCEAAAQBAJ"
+    },
+    {
+        "Books name": "The Winners: A Novel",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Fredrik_Backman_The_Winners?id=u9BaEAAAQBAJ"
+    },
+    {
+        "Books name": "Discipline Is Destiny: The Power of Self-Control",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Ryan_Holiday_Discipline_Is_Destiny?id=OMFWEAAAQBAJ"
+    },
+    {
+        "Books name": "Killing the Legends: The Lethal Danger of Celebrity",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Bill_O_Reilly_Killing_the_Legends?id=FpVVEAAAQBAJ"
+    },
+    {
+        "Books name": "Hell's March",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Taylor_Anderson_Hell_s_March?id=1ThTEAAAQBAJ"
+    },
+    {
+        "Books name": "Confidence Man: The Making of Donald Trump and the Breaking of America",
+        "Price": "16,99 $",
+        "Link": "https://play.google.com/store/books/details/Maggie_Haberman_Confidence_Man?id=7H5dEAAAQBAJ"
+    },
+    {
+        "Books name": "Suspect",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Scott_Turow_Suspect?id=dFVgEAAAQBAJ"
+    },
+    {
+        "Books name": "A Billion Years: My Escape From a Life in the Highest Ranks of Scientology",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Mike_Rinder_A_Billion_Years?id=k1hdEAAAQBAJ"
+    },
+    {
+        "Books name": "Come On, Man!: The Truth About Joe Biden's Terrible, Horrible, No-Good, Very Bad Presidency",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Joe_Concha_Come_On_Man?id=5K1gEAAAQBAJ"
+    },
+    {
+        "Books name": "Next in Line (William Warwick Novels)",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Jeffrey_Archer_Next_in_Line_William_Warwick_Novels?id=wCpGEAAAQBAJ"
+    },
+    {
+        "Books name": "A Hard Kick in the Nuts: What I've Learned from a Lifetime of Terrible Decisions",
+        "Price": "15,99 $",
+        "Link": "https://play.google.com/store/books/details/Stephen_Steve_O_Glover_A_Hard_Kick_in_the_Nuts?id=N3hmEAAAQBAJ"
+    },
+    {
+        "Books name": "Shrines of Gaiety: A Novel",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Kate_Atkinson_Shrines_of_Gaiety?id=cXRcEAAAQBAJ"
+    },
+    {
+        "Books name": "The Skeptics' Guide to the Future: What Yesterday's Science and Science Fiction Tell Us About the World of Tomorrow",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Dr_Steven_Novella_The_Skeptics_Guide_to_the_Future?id=3YxXEAAAQBAJ"
+    },
+    {
+        "Books name": "The Love Prescription: Seven Days to More Intimacy, Connection, and Joy",
+        "Price": "11,99 $",
+        "Link": "https://play.google.com/store/books/details/John_Gottman_PhD_The_Love_Prescription?id=q7FYEAAAQBAJ"
+    },
+    {
+        "Books name": "House of Hunger",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Alexis_Henderson_House_of_Hunger?id=dDhYEAAAQBAJ"
+    },
+    {
+        "Books name": "The Shadow Murders: A Department Q Novel",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Jussi_Adler_Olsen_The_Shadow_Murders?id=Mu5XEAAAQBAJ"
+    },
+    {
+        "Books name": "The Christie Affair: A Novel",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Nina_de_Gramont_The_Christie_Affair?id=wxUqEAAAQBAJ"
+    },
+    {
+        "Books name": "Honor",
+        "Price": "13,99 $",
+        "Link": "https://play.google.com/store/books/details/Thrity_Umrigar_Honor?id=XLUdEAAAQBAJ"
+    },
+    {
+        "Books name": "Anatomy: A Love Story",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/books/details/Dana_Schwartz_Anatomy_A_Love_Story?id=LTArEAAAQBAJ"
+    },
+    {
+        "Books name": "Lucky",
+        "Price": "11,99 $",
+        "Link": "https://play.google.com/store/books/details/Marissa_Stapley_Lucky?id=RzDuDwAAQBAJ"
+    },
+    {
+        "Books name": "The Island of Missing Trees: A Novel",
+        "Price": "9,45 $",
+        "Link": "https://play.google.com/store/books/details/Elif_Shafak_The_Island_of_Missing_Trees?id=OzEyEAAAQBAJ"
+    },
+    {
+        "Books name": "Within These Wicked Walls: A Novel",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/books/details/Lauren_Blackwood_Within_These_Wicked_Walls?id=hiQQEAAAQBAJ"
+    },
+    {
+        "Books name": "Sankofa: A Novel",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/Chibundu_Onuzo_Sankofa?id=aMIXEAAAQBAJ"
+    },
+    {
+        "Books name": "L.A. Weather: A Novel",
+        "Price": "11,99 $",
+        "Link": "https://play.google.com/store/books/details/Mar%C3%ADa_Amparo_Escand%C3%B3n_L_A_Weather?id=GJ8OEAAAQBAJ"
+    },
+    {
+        "Books name": "We Were Never Here: A Novel",
+        "Price": "11,99 $",
+        "Link": "https://play.google.com/store/books/details/Andrea_Bartz_We_Were_Never_Here?id=ZmcFEAAAQBAJ"
+    },
+    {
+        "Books name": "The Downstairs Girl",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Stacey_Lee_The_Downstairs_Girl?id=5yZcDwAAQBAJ"
+    },
+    {
+        "Books name": "The Paper Palace: A Novel",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/books/details/Miranda_Cowley_Heller_The_Paper_Palace?id=XccIEAAAQBAJ"
+    },
+    {
+        "Books name": "Seven Days in June",
+        "Price": "8,99 $",
+        "Link": "https://play.google.com/store/books/details/Tia_Williams_Seven_Days_in_June?id=JiQBEAAAQBAJ"
+    },
+    {
+        "Books name": "Tokyo Ever After: A Novel",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Emiko_Jean_Tokyo_Ever_After?id=eff4DwAAQBAJ"
+    },
+    {
+        "Books name": "The Last Thing He Told Me: A Novel",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/books/details/Laura_Dave_The_Last_Thing_He_Told_Me?id=3s8DEAAAQBAJ"
+    },
+    {
+        "Books name": "Northern Spy: A Novel",
+        "Price": "11,99 $",
+        "Link": "https://play.google.com/store/books/details/Flynn_Berry_Northern_Spy?id=aln2DwAAQBAJ"
+    },
+    {
+        "Books name": "Infinite Country: A Novel",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/Patricia_Engel_Infinite_Country?id=tjDuDwAAQBAJ"
+    },
+    {
+        "Books name": "Firekeeper's Daughter",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/books/details/Angeline_Boulley_Firekeeper_s_Daughter?id=rWHVDwAAQBAJ"
+    },
+    {
+        "Books name": "The Sanatorium: A Novel",
+        "Price": "13,99 $",
+        "Link": "https://play.google.com/store/books/details/Sarah_Pearse_The_Sanatorium?id=_gPyDwAAQBAJ"
+    },
+    {
+        "Books name": "You Have a Match: A Novel",
+        "Price": "7,99 $",
+        "Link": "https://play.google.com/store/books/details/Emma_Lord_You_Have_a_Match?id=bDLoDwAAQBAJ"
+    },
+    {
+        "Books name": "Outlawed",
+        "Price": "8,30 $",
+        "Link": "https://play.google.com/store/books/details/Anna_North_Outlawed?id=WX3hDwAAQBAJ"
+    },
+    {
+        "Books name": "Where the Crawdads Sing",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Delia_Owens_Where_the_Crawdads_Sing?id=CGVDDwAAQBAJ"
+    },
+    {
+        "Books name": "The Sandman: Preludes & Nocturnes",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/Neil_Gaiman_The_Sandman_Vol_1_Preludes_Nocturnes?id=AfW0AAAAQBAJ"
+    },
+    {
+        "Books name": "The Terminal List: A Thriller",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Jack_Carr_The_Terminal_List?id=0BwyDwAAQBAJ"
+    },
+    {
+        "Books name": "The Summer I Turned Pretty",
+        "Price": "8,99 $",
+        "Link": "https://play.google.com/store/books/details/Jenny_Han_The_Summer_I_Turned_Pretty?id=u2Opn0bJGbwC"
+    },
+    {
+        "Books name": "Bridgerton: The Duke and I",
+        "Price": "7,99 $",
+        "Link": "https://play.google.com/store/books/details/Julia_Quinn_Bridgerton?id=Nu0QBwAAQBAJ"
+    },
+    {
+        "Books name": "The Gray Man",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Mark_Greaney_The_Gray_Man?id=kqCcGK_UUR0C"
+    },
+    {
+        "Books name": "The Viscount Who Loved Me: Bridgerton",
+        "Price": "7,99 $",
+        "Link": "https://play.google.com/store/books/details/Julia_Quinn_The_Viscount_Who_Loved_Me?id=yu0QBwAAQBAJ"
+    },
+    {
+        "Books name": "Fire & Blood: 300 Years Before A Game of Thrones",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/George_R_R_Martin_Fire_Blood?id=Mj5XDwAAQBAJ"
+    },
+    {
+        "Books name": "Heartstopper",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Alice_Oseman_Heartstopper_1_A_Graphic_Novel?id=qwWnDwAAQBAJ"
+    },
+    {
+        "Books name": "A Discovery of Witches: A Novel",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/Deborah_Harkness_A_Discovery_of_Witches?id=DVMsjPtMfqMC"
+    },
+    {
+        "Books name": "'Salem's Lot",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Stephen_King_Salem_s_Lot?id=i-KRRR_5lbQC"
+    },
+    {
+        "Books name": "Under the Banner of Heaven: A Story of Violent Faith",
+        "Price": "13,99 $",
+        "Link": "https://play.google.com/store/books/details/Jon_Krakauer_Under_the_Banner_of_Heaven?id=0DQaTU7Opq0C"
+    },
+    {
+        "Books name": "Station Eleven: A novel",
+        "Price": "11,99 $",
+        "Link": "https://play.google.com/store/books/details/Emily_St_John_Mandel_Station_Eleven?id=2RIcAwAAQBAJ"
+    },
+    {
+        "Books name": "After Ever Happy",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/Anna_Todd_After_Ever_Happy?id=fgqFBAAAQBAJ"
+    },
+    {
+        "Books name": "The School for Good and Evil",
+        "Price": "8,99 $",
+        "Link": "https://play.google.com/store/books/details/Soman_Chainani_The_School_for_Good_and_Evil?id=Y8MTHn6j9W4C"
+    },
+    {
+        "Books name": "Vampire Academy: Volume 1",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Richelle_Mead_Vampire_Academy?id=AHpEoxYiK9AC"
+    },
+    {
+        "Books name": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/David_Grann_Killers_of_the_Flower_Moon?id=3IC7CwAAQBAJ"
+    },
+    {
+        "Books name": "Pachinko (National Book Award Finalist)",
+        "Price": "11,99 $",
+        "Link": "https://play.google.com/store/books/details/Min_Jin_Lee_Pachinko_National_Book_Award_Finalist?id=cxteDAAAQBAJ"
+    },
+    {
+        "Books name": "Conversations with Friends: A Novel",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/books/details/Sally_Rooney_Conversations_with_Friends?id=J3BEDQAAQBAJ"
+    },
+    {
+        "Books name": "Slow Horses",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Mick_Herron_Slow_Horses?id=taAEAQAAQBAJ"
+    },
+    {
+        "Books name": "It Ends with Us: A Novel",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/books/details/Colleen_Hoover_It_Ends_with_Us?id=peTPCgAAQBAJ"
+    },
+    {
+        "Books name": "The 6:20 Man: A Thriller",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/David_Baldacci_The_6_20_Man?id=-ypNEAAAQBAJ"
+    },
+    {
+        "Books name": "The Terminal List: A Thriller",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Jack_Carr_The_Terminal_List?id=0BwyDwAAQBAJ"
+    },
+    {
+        "Books name": "The Summer I Turned Pretty",
+        "Price": "8,99 $",
+        "Link": "https://play.google.com/store/books/details/Jenny_Han_The_Summer_I_Turned_Pretty?id=u2Opn0bJGbwC"
+    },
+    {
+        "Books name": "Upgrade: A Novel",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Blake_Crouch_Upgrade?id=Gj9JEAAAQBAJ"
+    },
+    {
+        "Books name": "The Hotel Nantucket",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Elin_Hilderbrand_The_Hotel_Nantucket?id=8nlYEAAAQBAJ"
+    },
+    {
+        "Books name": "The It Girl",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Ruth_Ware_The_It_Girl?id=KBVJEAAAQBAJ"
+    },
+    {
+        "Books name": "Book Lovers",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Emily_Henry_Book_Lovers?id=3GY7EAAAQBAJ"
+    },
+    {
+        "Books name": "The House Across the Lake: A Novel",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Riley_Sager_The_House_Across_the_Lake?id=F1RFEAAAQBAJ"
+    },
+    {
+        "Books name": "Lessons in Chemistry: A Novel",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Bonnie_Garmus_Lessons_in_Chemistry?id=Ayk3EAAAQBAJ"
+    },
+    {
+        "Books name": "I'd Like to Play Alone, Please: Essays",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Tom_Segura_I_d_Like_to_Play_Alone_Please?id=NXQtEAAAQBAJ"
+    },
+    {
+        "Books name": "Happy-Go-Lucky",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/David_Sedaris_Happy_Go_Lucky?id=U1pHEAAAQBAJ"
+    },
+    {
+        "Books name": "Heartstopper",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Alice_Oseman_Heartstopper_1_A_Graphic_Novel?id=qwWnDwAAQBAJ"
+    },
+    {
+        "Books name": "Finding Me: A Memoir",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Viola_Davis_Finding_Me?id=gl05EAAAQBAJ"
+    },
+    {
+        "Books name": "Honey and Spice: A Novel",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Bolu_Babalola_Honey_and_Spice?id=mjREEAAAQBAJ"
+    },
+    {
+        "Books name": "Sea of Tranquility: A novel",
+        "Price": "11,99 $",
+        "Link": "https://play.google.com/store/books/details/Emily_St_John_Mandel_Sea_of_Tranquility?id=fj84EAAAQBAJ"
+    },
+    {
+        "Books name": "The Dead Romantics",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/books/details/Ashley_Poston_The_Dead_Romantics?id=SopGEAAAQBAJ"
+    },
+    {
+        "Books name": "Counterfeit: A Novel",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Kirstin_Chen_Counterfeit?id=bTZHEAAAQBAJ"
+    },
+    {
+        "Books name": "The Measure: A Novel",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Nikki_Erlick_The_Measure?id=vjQ_EAAAQBAJ"
+    },
+    {
+        "Books name": "The Maid: A Novel",
+        "Price": "13,99 $",
+        "Link": "https://play.google.com/store/books/details/Nita_Prose_The_Maid?id=Dc0nEAAAQBAJ"
+    },
+    {
+        "Books name": "Dune: Volume 1",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Frank_Herbert_Dune?id=p1MULH7JsTQC"
+    },
+    {
+        "Books name": "The Eye of the World: Book One of The Wheel of Time",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Robert_Jordan_The_Eye_of_the_World?id=1PgKPuFIz1kC"
+    },
+    {
+        "Books name": "Project Hail Mary: A Novel",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/Andy_Weir_Project_Hail_Mary?id=-Ff2DwAAQBAJ"
+    },
+    {
+        "Books name": "The Last Wish: Introducing the Witcher",
+        "Price": "7,99 $",
+        "Link": "https://play.google.com/store/books/details/Andrzej_Sapkowski_The_Last_Wish?id=aVPNxmllbAUC"
+    },
+    {
+        "Books name": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/Mark_Manson_The_Subtle_Art_of_Not_Giving_a_F_ck?id=yng_CwAAQBAJ"
+    },
+    {
+        "Books name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/James_Clear_Atomic_Habits?id=lFhbDwAAQBAJ"
+    },
+    {
+        "Books name": "The 48 Laws of Power",
+        "Price": "16,99 $",
+        "Link": "https://play.google.com/store/books/details/Robert_Greene_The_48_Laws_of_Power?id=afCxg5sogvAC"
+    },
+    {
+        "Books name": "A Court of Thorns and Roses",
+        "Price": "6,65 $",
+        "Link": "https://play.google.com/store/books/details/Sarah_J_Maas_A_Court_of_Thorns_and_Roses?id=E-kdBQAAQBAJ"
+    },
+    {
+        "Books name": "Dune Messiah",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Frank_Herbert_Dune_Messiah?id=AXVUqdzi3rsC"
+    },
+    {
+        "Books name": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/David_Goggins_Can_t_Hurt_Me?id=OSchEAAAQBAJ"
+    },
+    {
+        "Books name": "Harry Potter and the Sorcerer's Stone",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/J_K_Rowling_Harry_Potter_and_the_Sorcerer_s_Stone?id=wrOQLV6xB-wC"
+    },
+    {
+        "Books name": "A Court of Mist and Fury",
+        "Price": "6,71 $",
+        "Link": "https://play.google.com/store/books/details/Sarah_J_Maas_A_Court_of_Mist_and_Fury?id=_kuOCgAAQBAJ"
+    },
+    {
+        "Books name": "Midnight Sun",
+        "Price": "11,99 $",
+        "Link": "https://play.google.com/store/books/details/Stephenie_Meyer_Midnight_Sun?id=F6bgDwAAQBAJ"
+    },
+    {
+        "Books name": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "Price": "7,99 $",
+        "Link": "https://play.google.com/store/books/details/Don_Miguel_Ruiz_The_Four_Agreements?id=hzVxiw2DiOsC"
+    },
+    {
+        "Books name": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Bessel_van_der_Kolk_M_D_The_Body_Keeps_the_Score?id=3Q3UAgAAQBAJ"
+    },
+    {
+        "Books name": "A Court of Frost and Starlight",
+        "Price": "7,17 $",
+        "Link": "https://play.google.com/store/books/details/Sarah_J_Maas_A_Court_of_Frost_and_Starlight?id=N2QzDwAAQBAJ"
+    },
+    {
+        "Books name": "Freed: Fifty Shades Freed as Told by Christian",
+        "Price": "7,99 $",
+        "Link": "https://play.google.com/store/books/details/E_L_James_Freed?id=cN8hEAAAQBAJ"
+    },
+    {
+        "Books name": "A Court of Silver Flames",
+        "Price": "8,21 $",
+        "Link": "https://play.google.com/store/books/details/Sarah_J_Maas_A_Court_of_Silver_Flames?id=OdXvDwAAQBAJ"
+    },
+    {
+        "Books name": "Billy Summers",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Stephen_King_Billy_Summers?id=L3oXEAAAQBAJ"
+    },
+    {
+        "Books name": "Rhythm of War: Book Four of The Stormlight Archive",
+        "Price": "15,99 $",
+        "Link": "https://play.google.com/store/books/details/Brandon_Sanderson_Rhythm_of_War?id=QCPBDwAAQBAJ"
+    },
+    {
+        "Books name": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/Mark_Manson_The_Subtle_Art_of_Not_Giving_a_F_ck?id=yng_CwAAQBAJ"
+    },
+    {
+        "Books name": "How to Stop Feeling Like Sh*t: 14 Habits that Are Holding You Back from Happiness",
+        "Price": "11,99 $",
+        "Link": "https://play.google.com/store/books/details/Andrea_Owen_How_to_Stop_Feeling_Like_Sh_t?id=ekfiDQAAQBAJ"
+    },
+    {
+        "Books name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/James_Clear_Atomic_Habits?id=lFhbDwAAQBAJ"
+    },
+    {
+        "Books name": "Discipline Is Destiny: The Power of Self-Control",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Ryan_Holiday_Discipline_Is_Destiny?id=OMFWEAAAQBAJ"
+    },
+    {
+        "Books name": "12 Rules for Life: An Antidote to Chaos",
+        "Price": "15,99 $",
+        "Link": "https://play.google.com/store/books/details/Jordan_B_Peterson_12_Rules_for_Life?id=TvEqDAAAQBAJ"
+    },
+    {
+        "Books name": "The 48 Laws of Power",
+        "Price": "16,99 $",
+        "Link": "https://play.google.com/store/books/details/Robert_Greene_The_48_Laws_of_Power?id=afCxg5sogvAC"
+    },
+    {
+        "Books name": "A Hard Kick in the Nuts: What I've Learned from a Lifetime of Terrible Decisions",
+        "Price": "15,99 $",
+        "Link": "https://play.google.com/store/books/details/Stephen_Steve_O_Glover_A_Hard_Kick_in_the_Nuts?id=N3hmEAAAQBAJ"
+    },
+    {
+        "Books name": "Never Split the Difference: Negotiating As If Your Life Depended On It",
+        "Price": "18,99 $",
+        "Link": "https://play.google.com/store/books/details/Chris_Voss_Never_Split_the_Difference?id=RmdqCgAAQBAJ"
+    },
+    {
+        "Books name": "The Four Agreements: A Practical Guide to Personal Freedom",
+        "Price": "7,99 $",
+        "Link": "https://play.google.com/store/books/details/Don_Miguel_Ruiz_The_Four_Agreements?id=hzVxiw2DiOsC"
+    },
+    {
+        "Books name": "Unfu*k Yourself: Get Out of Your Head and into Your Life",
+        "Price": "13,99 $",
+        "Link": "https://play.google.com/store/books/details/Gary_John_Bishop_Unfu_k_Yourself?id=UAjhDgAAQBAJ"
+    },
+    {
+        "Books name": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson, 25th Anniversary Edition",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/Mitch_Albom_Tuesdays_with_Morrie?id=z2z_6hLoPmgC"
+    },
+    {
+        "Books name": "The Laws of Human Nature",
+        "Price": "17,99 $",
+        "Link": "https://play.google.com/store/books/details/Robert_Greene_The_Laws_of_Human_Nature?id=I_1RDwAAQBAJ"
+    },
+    {
+        "Books name": "One Small Step Can Change Your Life: The Kaizen Way",
+        "Price": "9,99 $",
+        "Link": "https://play.google.com/store/books/details/Robert_Maurer_Ph_D_One_Small_Step_Can_Change_Your?id=5cskAgAAQBAJ"
+    },
+    {
+        "Books name": "Embrace the Suck: The Navy SEAL Way to an Extraordinary Life",
+        "Price": "11,99 $",
+        "Link": "https://play.google.com/store/books/details/Brent_Gleeson_Embrace_the_Suck?id=XmHbDwAAQBAJ"
+    },
+    {
+        "Books name": "Finding Me: A Memoir",
+        "Price": "14,99 $",
+        "Link": "https://play.google.com/store/books/details/Viola_Davis_Finding_Me?id=gl05EAAAQBAJ"
+    },
+    {
+        "Books name": "How to Keep House While Drowning: A Gentle Approach to Cleaning and Organizing",
+        "Price": "10,99 $",
+        "Link": "https://play.google.com/store/books/details/KC_Davis_How_to_Keep_House_While_Drowning?id=DBFJEAAAQBAJ"
+    },
+    {
+        "Books name": "Attached: The New Science of Adult Attachment and How It Can Help You Find--and Keep-- Love",
+        "Price": "12,99 $",
+        "Link": "https://play.google.com/store/books/details/Amir_Levine_Attached?id=vCh9fXUiUjwC"
+    },
+    {
+        "Books name": "It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle",
+        "Price": "13,99 $",
+        "Link": "https://play.google.com/store/books/details/Mark_Wolynn_It_Didn_t_Start_with_You?id=QMdNCgAAQBAJ"
+    },
+    {
+        "Books name": "Ikigai: The Japanese Secret to a Long and Happy Life",
+        "Price": "6,99 $",
+        "Link": "https://play.google.com/store/books/details/H%C3%A9ctor_Garc%C3%ADa_Ikigai?id=4UCnDQAAQBAJ"
+    },
+    {
+        "Books name": "Get Good with Money: Ten Simple Steps to Becoming Financially Whole",
+        "Price": "5,99 $",
+        "Link": "https://play.google.com/store/books/details/Tiffany_the_Budgetnista_Aliche_Get_Good_with_Money?id=kyLzDwAAQBAJ"
+    }
+]
